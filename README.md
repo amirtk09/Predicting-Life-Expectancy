@@ -2,14 +2,14 @@
 _Predicting Life Expectancy using Pycaret and IBM SPSS Modeler_
 
 
-| Title                 | Description                                      | Link                                                                                                                   |
-|-----------------------|------------------------------------------------  |----------------------------------------------------------------------------------------------------                    |                                                                    
-| Description 📝        | Project Overview                                | [:point_down: Refer](https://github.com/amirtk09/Predicting-Life-Expectancy/edit/main/README.md#-description)           |
-| Dataset 🗒️            | Explanations about the Data                     | [:point_down: Refer](https://github.com/amirtk09/Predicting-Life-Expectancy/edit/main/README.md#%EF%B8%8Fdataset)       |
-| Installation 🖥️       | Software and Libraries Required for the Project | [:point_down: Refer](https://github.com/amirtk09/Predicting-Life-Expectancy/edit/main/README.md#%EF%B8%8F-installation) |
-| Data Preprocessing 🔍 | Details of Data Preprocessing                   | [:point_down: Refer](https://github.com/amirtk09/Predicting-Life-Expectancy/edit/main/README.md#-data-preprocessing)    |
-| Model Building 🎯     | Explanations Regarding Modeling                 | [:point_down: Refer](https://github.com/amirtk09/Predicting-Life-Expectancy/edit/main/README.md#-model-building)        |
-| Conclusion 📖          | Final conclusion                                | [:point_down: Refer](https://github.com/amirtk09/Predicting-Life-Expectancy/edit/main/README.md#-conclusion)            |
+| Title                 | Description                                      |
+|-----------------------|------------------------------------------------  |                                                                   
+| Description 📝        | Project Overview                                |
+| Dataset 🗒️            | Explanations about the Data                     |
+| Installation 🖥️       | Software and Libraries Required for the Project |
+| Data Preprocessing 🔍 | Details of Data Preprocessing                   |
+| Model Building 🎯     | Explanations Regarding Modeling                 |
+| Conclusion 📖          | Final conclusion                                |
 
 <hr>
 
